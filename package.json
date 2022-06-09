@@ -2,5 +2,5 @@
   "name": "react-native-progress-circle",
   "version": "1.0.0",
   "description": "",
-  "main": "./CircularProgress.js",
+  "main": "./CircularProgress.js"
 }
